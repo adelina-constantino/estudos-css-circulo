@@ -1,0 +1,12 @@
+body {
+    background: #eedec1;
+    
+}
+.circulo {
+    width: 90vmin;
+    height: 90vmin;
+    top: 50%;
+    left: 50%;
+    background: #dc7dc1;
+    border-radius: 50%;
+}
